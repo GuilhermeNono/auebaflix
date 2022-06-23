@@ -74,3 +74,17 @@ header {
         font-size: 46pt;
     }
 }
+.expandir
+{
+    flex-grow:1;
+}
+
+select {
+    font-size: 14;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background: #000;
+    color: #fff;
+    border: 1px solid #aaa;
+    border-radius: 2px;
+}
